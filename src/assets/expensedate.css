@@ -1,0 +1,20 @@
+.dates {
+    background: #0c0c0c;
+    padding: 0.3rem 1.8rem;
+    border-radius: 14px;
+    border: 1px solid #fff;
+}
+
+.dates .date {
+    margin: 0.7rem 0.5rem;
+}
+
+.day {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.month {
+    font-size: 1.1rem;
+    font-weight: bold;
+}
